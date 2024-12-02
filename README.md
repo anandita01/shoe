@@ -16,13 +16,9 @@ Welcome to Shoekart – where style meets comfort! Shoekart is an e-commerce pla
 
 - **Cart Management:** Add desired products to your cart, update quantities, and remove items as needed for a seamless shopping experience and apply coupon codes for discounts to enhance your shopping experience.
 
-- **Payment Gateway with Stripe:** Enjoy seamless and secure payment processing through Stripe integration.
-
 - **Order History:** Keep track of your past orders and review order history for easy reference and reordering.
 
 - **Product Details and Reviews:** Access detailed product information and customer reviews to make informed purchasing decisions.
-
-- **Mail Service:** Stay connected with users through email notifications, including order confirmations, shipping updates, and promotional offers.
 
 - **Forgot Password & Reset Password:** Enable users to reset their passwords easily in case they forget, ensuring a smooth user experience.
 
@@ -35,24 +31,6 @@ Welcome to Shoekart – where style meets comfort! Shoekart is an e-commerce pla
 - **JWT (JSON Web Tokens)**: Used for user authentication and authorization.
 - **Axios**: Promise-based HTTP client for making AJAX requests from the frontend to the backend.
 - **Stripe**: Payment processing platform for securely accepting payments online.
-
-## Demo
-
-Explore the project: [Shoekart](https://shoekart197.vercel.app)
-
-To experience Shoekart as a demo user, navigate to [User Login](https://shoekart197.vercel.app/login) and use the following credentials:
-
-```plaintext
-Username: user@gmail.com
-Password: password
-```
-
-You can access the admin section by navigating to [Admin Login](https://shoekart197.vercel.app/adminlogin) and using the following credentials:
-
-```plaintext
-Username: admin@gmail.com
-Password: password
-```
 
 ## Installation
 
